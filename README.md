@@ -10,7 +10,7 @@
 
 ⚡️Anedocte I am a video game addict🎮
 
-<h3 align="center">A cool guy from West Africa 🇧🇯🇳🇬🇨🇮🇬🇭</h3>
+<h3 align="center">A cool guy from West Africa 🇧🇯🇳🇬</h3>
 
 - 📫 How to reach me **alvaroakpovo@gmail.com**
 
