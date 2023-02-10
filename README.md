@@ -10,6 +10,8 @@
 
 ⚡️Anedocte I am a video game addict🎮
 
+🦾👨🏽‍💻 I can deliver complete custom web solutions that increase your website’s lead generation and revenue.
+
 <h3 align="center">A cool guy from West Africa 🇧🇯🇳🇬</h3>
 
 - 📫 How to reach me **alvaroakpovo@gmail.com**
