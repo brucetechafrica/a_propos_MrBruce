@@ -1,6 +1,6 @@
 <h1 align="center">Hi Guys👋, I'm Bruce 🥷</h1>
 
-🔭 I’m currently working as a freelancer, open source contributor. I'm also a developer specialized in web development and web design. Take a look at my work and if you like it I would love to hear from you!🫡🫡🥷🏽 https://github.com/brucetechafrica/mescreationweb/blob/cf5b4aa31a90bbd190267dbd5f8cc1354da9a49f/liens.md
+🔭 I’m currently working as a freelancer, open source contributor. I'm also a developer specialized in web development and web design. Take a look at my work and if you like it I would love to hear from you!🫡🫡🥷🏽 [cliquez ici](https://github.com/brucetechafrica/mescreationweb/blob/cf5b4aa31a90bbd190267dbd5f8cc1354da9a49f/liens.md)
 
 🥂👨🏽‍💻 I’m looking to collaborate on all open source project especially Blockchain and crypto projects
 
